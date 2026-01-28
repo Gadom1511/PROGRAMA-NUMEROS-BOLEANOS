@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-
 void main (){
     int num_variables,op,exponente,base=2,salida,i,j;
     char letra;
@@ -17,7 +16,7 @@ void main (){
         switch(op){
         case 1:
             printf("Usted selecciono la Opcion SOP");
-
+            
             break;
         case 2:
             printf("Usted selecciono la Opcion POS");
